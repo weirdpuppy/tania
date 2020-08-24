@@ -1,0 +1,249 @@
+/*
+Theme Name: Tania
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme example child theme.
+Author: roxanne
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+/* .elementor-container {
+    max-width: 950px!important;
+} */
+.ocean_custom_menu-REPLACE_TO_ID > ul > li > a, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link {
+    color: unset!important;
+}
+.title {
+    text-transform: uppercase;
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+p {
+    font-weight: 400;
+    font-size: .9em;
+}
+
+.footer.title {
+    font-size: 1.5em;
+    color: white;
+}
+
+.about.title {
+    font-size: 2em;
+}
+
+.header.title span, .about.title span {
+    color: white;
+}
+
+.title span {
+    color: #D4DAD8;
+}
+
+.subtitle {
+    letter-spacing: 3px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.footer.subtitle {
+    color: white;
+    font-size: 1em;
+}
+
+.about-img  {
+    z-index: 100;
+}
+.about-content {
+    margin-top: -200px
+}
+
+.duo {
+    top: -1px;
+}
+
+.duo .elementor-row {
+    height: 100vh;
+}
+
+.duo .right{
+    position: relative;
+}
+.duo .right .inner-content {
+    position: absolute;
+    height: 250px;
+    bottom: 0;
+}
+
+.custom-section {
+    max-width: 750px!important;
+    margin: auto;
+    padding: 10px;
+}
+
+.custom-header {
+    padding-left: 15px!important;
+    padding-top: 50px!important;
+}
+
+.current-menu-item {
+    font-weight: 600;
+}
+
+/*************POPUP***************/
+
+div#popmake-144 {
+    padding: 30px 50px;
+    top: 8%!important;
+    left: 50%!important;
+    max-width: 700px!important;
+}
+#popmake-144 h1 {
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 2em;
+}
+/*************HEADER***************/
+
+#site-header-inner .top-bar-inner{
+    max-width: 1200px;
+    margin: auto;
+    background: #d4dad8;
+}
+#top-bar-wrap {
+    border-color: #d4dad8!important;
+}
+
+.cover-menu {
+    height: 120px;
+    position: absolute!important;
+    bottom: 0;
+}
+
+.custom-menu {
+    margin-left: -10px;
+    width: 100%!important;
+}
+
+.custom-menu-item {
+    display: inline-block;
+    width: 100px!important;
+}
+
+#main-menu {
+    width: fit-content!important;
+}
+
+.modal-content {
+    max-width: 90%!important;
+}
+
+.wpme_lightbox_image img {
+    max-height: 75vh;
+    width: auto;
+    height: auto!important;
+}
+
+/*************FORMS***************/
+
+.wpforms-confirmation-container-full {
+    background: white;
+    border: black 1px solid;
+  }
+  .wpforms-form .wpforms-field-row {
+    max-width: 100%!important;
+    width: 100%!important;
+  }
+  .wpforms-field-medium {
+    max-width: 100%!important;
+  }
+  .contact .wpforms-submit-container {
+    text-align:center;
+  }
+
+  label.wpforms-field-label {
+    text-transform: uppercase!important;
+    font-size: .9em!important;
+    font-weight: 500!important;
+}
+
+  .subscribe {
+    max-width: 250px;
+    margin: AUTO;
+}
+
+.contact-btn {
+    max-width: 300px!important;
+    width: 100%!important;
+    background: #333!important;
+}
+
+  .subscribe-btn {
+    background: #D4DAD8!important;
+    width: 100%!important;
+    color: #333!important;
+  }
+  .subscribe .wpforms-field-medium {
+    border: 1px solid black!important;
+    text-transform: uppercase!important;
+    color: black!important;
+    font-weight: 500;
+    font-size: .9em!IMPORTANT;
+    letter-spacing: 2px!important;
+  }
+  .wpforms-confirmation-container-full {
+    background: #D4DAD8!important;
+    border: 0!important;
+    width: 100%!important;
+    color: #333!important;
+
+  }
+
+@media screen and (max-width: 1024px) {
+    div#popmake-144 {
+        transform: translate(-50%, 0%);
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .duo .elementor-row{
+        height: unset;
+    }
+    .duo .right .inner-content {
+        position: relative;
+        height: min-content;
+    }  
+    .duo .left {
+        height: 300px;
+    }
+    .cover-menu {
+        position: relative!important;
+    }
+    .footer {
+        text-align: center;
+    }
+
+    .wmle_post_title {
+        font-size: 1em!important;
+    }
+
+    .custom-header {
+        padding-left: 10px!important;
+    }
+
+    .custom-header .elementor-column-wrap  {
+        padding: 0px!important;
+    }
+}
+
+@media screen and (max-width: 368px) {
+    a.menu-link.sf-with-ul {
+        padding: 5px!important;
+    }
+    a.menu-link {
+        padding: 5px!important;
+    }
+}

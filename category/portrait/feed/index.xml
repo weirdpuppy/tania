@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portrait &#8211; Tania Davis</title>
+	<atom:link href="http://localhost/tania/category/portrait/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 24 Aug 2020 18:32:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>Untitled #6</title>
+		<link>/2020/08/24/untitled-6/</link>
+					<comments>/2020/08/24/untitled-6/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 18:32:24 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<guid isPermaLink="false">/?p=263</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2020/08/24/untitled-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Untitled #5</title>
+		<link>/2020/08/24/untitled-5/</link>
+					<comments>/2020/08/24/untitled-5/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 18:31:50 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=259</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2020/08/24/untitled-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Untitled #4</title>
+		<link>/2020/08/05/untitled-4/</link>
+					<comments>/2020/08/05/untitled-4/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 21:43:14 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<guid isPermaLink="false">/?p=221</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2020/08/05/untitled-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Untitled #2</title>
+		<link>/2020/08/03/untitled-2/</link>
+					<comments>/2020/08/03/untitled-2/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 22:01:43 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<guid isPermaLink="false">/?p=137</guid>
+
+					<description><![CDATA[8&#8243; x 10&#8243; &#124; Oil on Canvas]]></description>
+										<content:encoded><![CDATA[
+<p>8&#8243; x 10&#8243; | Oil on Canvas</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/08/03/untitled-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Untitled #1</title>
+		<link>/2020/08/03/untitled-1/</link>
+					<comments>/2020/08/03/untitled-1/#respond</comments>
+		
+		<dc:creator><![CDATA[roxanne]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 22:01:04 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<guid isPermaLink="false">/?p=135</guid>
+
+					<description><![CDATA[8&#8243; x 10&#8243; &#124; Oil on Canvas]]></description>
+										<content:encoded><![CDATA[
+<p>8&#8243; x 10&#8243; | Oil on Canvas</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/08/03/untitled-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
